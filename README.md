@@ -1,1 +1,1 @@
-# Hello! This repository has been made for Backend Programming Basics
+# Hello! This repository has been made for Backend Programming basics
